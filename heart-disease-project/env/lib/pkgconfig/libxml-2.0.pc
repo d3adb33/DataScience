@@ -1,0 +1,13 @@
+prefix=/home/thans/mlproject/heart-disease-project/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+modules=1
+
+Name: libXML
+Version: 2.9.9
+Description: libXML library version2.
+Requires:
+Libs: -L${libdir} -lxml2
+Libs.private:  -lpthread -L/home/thans/mlproject/heart-disease-project/env/lib -lz -L/home/thans/mlproject/heart-disease-project/env/lib -llzma -L/home/thans/mlproject/heart-disease-project/env/lib -lm  
+Cflags: -I${includedir}/libxml2 -I/home/thans/mlproject/heart-disease-project/env/include 
