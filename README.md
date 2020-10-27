@@ -1,4 +1,4 @@
-![Workplace](https://media-exp1.licdn.com/dms/image/C4D16AQGYT9oh5lOmUw/profile-displaybackgroundimage-shrink_350_1400/0?e=1602115200&v=beta&t=ce-ybNPDmlEMcjysNNJtMpFk7ZshjLhn7IVk5506bq0)
+![Workplace](https://github.com/d3adb33/DataScience/blob/master/0.jpeg)
 
 # DataScience
 Collection of research and learning content for ML and Datascience
